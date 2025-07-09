@@ -9,6 +9,7 @@ export default function QRForm({ url, setUrl, onGenerate }) {
   return (
     <form id="qrcode" onSubmit={handleSubmit}>
       <input
+        name="url"
         className={styles.input}
         type="text"
         placeholder="https://google.com"
