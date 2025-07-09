@@ -78,4 +78,4 @@ npm run dev
 
 Este projeto está sob a licença MIT.
 
-👩‍💻 Desenvolvido por [Leonardo Mancilha](https://www.linkedin.com/in/leonardomancilha/)
+👨‍💻 Desenvolvido por [Leonardo Mancilha](https://www.linkedin.com/in/leonardomancilha/)
