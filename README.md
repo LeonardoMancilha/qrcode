@@ -43,6 +43,8 @@ Este projeto obteve **100/100** em todos os critérios avaliados pelo Lighthouse
 - ✅ Melhores práticas: 100
 - ✅ SEO: 100
 
+![LightHouse](https://github.com/user-attachments/assets/b742861e-8c5a-4e0f-8f9d-727270433710)
+
 Esses resultados reforçam o cuidado com usabilidade, velocidade e boas práticas de desenvolvimento web.
 
 ## 🛠️ Tecnologias Utilizadas
