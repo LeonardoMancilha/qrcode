@@ -34,6 +34,8 @@ Escrevi testes unitários com **Jest** para as funções principais:
 - `isValidURL`: garante que apenas URLs válidas sejam aceitas.
 - `generateQrCode`: garante que o QR Code é gerado corretamente e trata erros.
 
+![Testes](https://github.com/user-attachments/assets/b1d14ecd-baed-4f6f-b191-f50725a33632)
+
 ## 📊 Desempenho no Lighthouse
 
 Este projeto obteve **100/100** em todos os critérios avaliados pelo Lighthouse:
