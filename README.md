@@ -6,7 +6,7 @@ Gere QR Codes facilmente a partir de URLs. Simples, rápido, validado, testado e
 
 ## 📚 Sobre o projeto
 
-Este é um projeto de gerador de QR Codes construído com **React**. A ideia foi criar um projeto do mundo real — indo além de simples clones de componentes ou páginas estáticas para adicionar ao meu portfólio e demonstrar domínio de:
+Este é um projeto de gerador de QR Codes construído com **React**. A ideia foi criar um projeto do mundo real indo além de simples clones de componentes ou páginas estáticas para adicionar ao meu portfólio e demonstrar domínio de:
 
 - React com componentes reutilizáveis
 - CSS modular com variáveis e responsividade
