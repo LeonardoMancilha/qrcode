@@ -2,7 +2,7 @@
 
 Gere QR Codes facilmente a partir de URLs. Simples, rápido, validado, testado e com foco em usabilidade e performance.
 
-![QR Code Generator Preview](./preview.png)
+![QR Code Generator Preview](https://github.com/user-attachments/assets/8b5a3f1b-55b5-4f35-b446-0fd2f9b0f214)
 
 ## 📚 Sobre o projeto
 
