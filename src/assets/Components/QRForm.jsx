@@ -7,7 +7,7 @@ export default function QRForm({ url, setUrl, onGenerate }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form id="qrcode" onSubmit={handleSubmit}>
       <input
         className={styles.input}
         type="text"
